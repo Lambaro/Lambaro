@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mihael  
 - 👀 I’m interested in computer programing, video games, and real life sports.
-- 🌱 I’m currently learning front end development :)
+- 🌱 I’m currently learning php, laravel and from end skills :)
 - 💞️ I’m looking to collaborate on anything that can give me anything to improve my skills 
 - 📫 How to reach me miha.kveder@gmail.com 
 
